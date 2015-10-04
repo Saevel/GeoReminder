@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">GeoReminder</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="location">Location</string>
+    <string name="active">Active</string>
+    <string name="start_date">Start Date</string>
+    <string name="end_date">End Date</string>
+    <string name="edit">Edit</string>
+    <string name="save">Save</string>
+    <string name="back">Back</string>
+    <string name="new_alert">New Alert</string>
+    <string name="edit_alert">Edit Alert</string>
+    <string name="configuration">Configuration</string>
+    <string name="proximity_distance">Proximity Distance</string>
+    <string name="distinguishable_distance">Distinguishable Distance</string>
+    <string name="location_update_interval">Location Update Interval</string>
+    <string name="add_alert">Add Alert</string>
+    <string name="alert_list">Alert List</string>
+    <string name="menu">Menu</string>
+    <string name="locate">Locate</string>
+    <string name="ok">Ok</string>
+    <string name="geolocaton_error">
+        Geolocation does not work. Please verify your internet connection
+    </string>
+</resources>
